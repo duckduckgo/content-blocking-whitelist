@@ -1,1 +1,1 @@
-# trackers-whitelist
+# Content Blocking Whitelist

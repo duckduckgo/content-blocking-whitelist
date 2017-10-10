@@ -1,0 +1,16 @@
+{
+  "name": "content-blocking-whitelist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "data.json",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duckduckgo/content-blocking-whitelist.git"
+  },
+  "bugs": {
+    "url": "https://github.com/duckduckgo/content-blocking-whitelist/issues"
+  },
+  "homepage": "https://github.com/duckduckgo/content-blocking-whitelist#readme"
+}
