@@ -1,3 +1,6 @@
 wp.com/_static/
 etsystatic.com
 2mdn.net/instream/html5/ima3.js
+assets.adobedtm.com
+i.ebayimg.com
+store.storeimages.cdn-apple.com
