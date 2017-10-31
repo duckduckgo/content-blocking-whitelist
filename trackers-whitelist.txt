@@ -4,3 +4,5 @@ etsystatic.com
 assets.adobedtm.com
 i.ebayimg.com
 store.storeimages.cdn-apple.com
+media.richrelevance.com
+recs.richrelevance.com
