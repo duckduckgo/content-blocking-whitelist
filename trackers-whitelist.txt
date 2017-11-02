@@ -9,4 +9,4 @@ recs.richrelevance.com
 ! our abp parser is matching data urls on facebook 
 ! that appear to be only css/styling information
 ! Whitelist this until we can fix it
-data:text
+|data:text$popup
