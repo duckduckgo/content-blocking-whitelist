@@ -12,3 +12,4 @@ recs.richrelevance.com
 |data:text$popup
 img.digitalriver.com
 user-images.githubusercontent.com
+a.slack-edge.com
