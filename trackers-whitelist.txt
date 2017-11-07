@@ -10,3 +10,5 @@ recs.richrelevance.com
 ! that appear to be only css/styling information
 ! Whitelist this until we can fix it
 |data:text$popup
+img.digitalriver.com
+user-images.githubusercontent.com
