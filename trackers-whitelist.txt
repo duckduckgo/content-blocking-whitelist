@@ -13,3 +13,4 @@ recs.richrelevance.com
 img.digitalriver.com
 user-images.githubusercontent.com
 a.slack-edge.com
+global.fncstatic.com
