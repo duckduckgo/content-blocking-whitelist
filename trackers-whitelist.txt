@@ -14,3 +14,4 @@ img.digitalriver.com
 user-images.githubusercontent.com
 a.slack-edge.com
 global.fncstatic.com
+s1.wp.com
