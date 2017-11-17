@@ -15,3 +15,4 @@ user-images.githubusercontent.com
 a.slack-edge.com
 global.fncstatic.com^$domain=foxnews.com
 s1.wp.com
+/\\.com\\/[0-9]{2,9}\\/$/$script,stylesheet,third-party,xmlhttprequest
