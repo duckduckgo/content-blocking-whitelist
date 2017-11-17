@@ -13,6 +13,7 @@ recs.richrelevance.com
 img.digitalriver.com
 user-images.githubusercontent.com
 a.slack-edge.com
-global.fncstatic.com^$domain=foxnews.com
+global.fncstatic.com
 s1.wp.com
+! need to fix regex matching in apb parser. Remove this after fixing
 /\\.com\\/[0-9]{2,9}\\/$/$script,stylesheet,third-party,xmlhttprequest
