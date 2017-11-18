@@ -16,4 +16,4 @@ a.slack-edge.com
 global.fncstatic.com
 s1.wp.com
 ! need to fix regex matching in apb parser. Remove this after fixing
-/\\.com\\/[0-9]{2,9}\\/$/$script,stylesheet,third-party,xmlhttprequest
+/\.com\/[0-9]{2,9}\/$/$script,stylesheet,third-party,xmlhttprequest
