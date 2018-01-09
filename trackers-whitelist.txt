@@ -1,3 +1,4 @@
+/$file/analytics
 wp.com/_static/
 etsystatic.com
 2mdn.net/instream/html5/ima3.js
