@@ -6,6 +6,7 @@ i.ebayimg.com
 store.storeimages.cdn-apple.com
 media.richrelevance.com
 recs.richrelevance.com
+||yandex.st/jquery
 ! our abp parser is matching data urls on facebook 
 ! that appear to be only css/styling information
 ! Whitelist this until we can fix it
