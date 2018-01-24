@@ -17,6 +17,9 @@ global.fncstatic.com
 s1.wp.com
 ||contextual.media.net/bidexchange.js^$domain=nytimes.com
 ||google-analytics.com/analytics.js$domain=raspberrypi.org
+! easyprivacy blocks these and breaks the site
+||ssl.gstatic.com$domain=analytics.google.com
+||csi.gstatic.com$domain=analytics.google.com
 ! these exist in the easylist whitelist but the xhcdn.com is too short to go in the bloomfilter
 ! remove these after fixing the problem
 ||xhcdn.com^$script,domain=xhamster.com
