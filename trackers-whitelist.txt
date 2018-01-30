@@ -17,6 +17,7 @@ global.fncstatic.com
 s1.wp.com
 ||contextual.media.net/bidexchange.js^$domain=nytimes.com
 ||google-analytics.com/analytics.js$domain=raspberrypi.org
+||s3.amazonaws.com
 ! easyprivacy blocks these and breaks the site
 ||ssl.gstatic.com$domain=analytics.google.com
 ||csi.gstatic.com$domain=analytics.google.com
