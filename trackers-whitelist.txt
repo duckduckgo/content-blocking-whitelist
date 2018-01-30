@@ -21,7 +21,7 @@ s1.wp.com
 ||static.polldaddy.com
 ||i.polldaddy.com
 ! causes the page to ininitely refresh on canadiantire.ca
-||omtrdc.net$domain=canadiantire.ca
+omtrdc.net^$domain=canadiantire.ca
 ! easyprivacy blocks these and breaks the site
 ||ssl.gstatic.com$domain=analytics.google.com
 ||csi.gstatic.com$domain=analytics.google.com
