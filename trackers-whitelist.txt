@@ -20,6 +20,8 @@ s1.wp.com
 ||s3.amazonaws.com
 ||static.polldaddy.com
 ||i.polldaddy.com
+! causes the page to ininitely refresh on canadiantire.ca
+||cantire.d2.sc.omtrdc.net
 ! easyprivacy blocks these and breaks the site
 ||ssl.gstatic.com$domain=analytics.google.com
 ||csi.gstatic.com$domain=analytics.google.com
