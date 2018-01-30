@@ -19,6 +19,7 @@ s1.wp.com
 ||google-analytics.com/analytics.js$domain=raspberrypi.org
 ||s3.amazonaws.com
 ||static.polldaddy.com
+||i.polldaddy.com
 ! easyprivacy blocks these and breaks the site
 ||ssl.gstatic.com$domain=analytics.google.com
 ||csi.gstatic.com$domain=analytics.google.com
