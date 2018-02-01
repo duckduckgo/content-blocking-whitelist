@@ -6,6 +6,12 @@ i.ebayimg.com
 store.storeimages.cdn-apple.com
 media.richrelevance.com
 recs.richrelevance.com
+||yandex.st/jquery
+||js.center.io^$domain=randpac.com
+||authedmine.com^$domain=mylink.nu|mylink.st
+||dev.visualwebsiteoptimizer.com^$script,domain=adoramapix.com
+||nintendo.com/*/analytics.min.js$script,first-party
+||static.dealer.com/common/tracker/tracker.min.js$script,domain=princetonbmw.com
 ! our abp parser is matching data urls on facebook 
 ! that appear to be only css/styling information
 ! Whitelist this until we can fix it
