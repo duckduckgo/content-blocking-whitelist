@@ -43,4 +43,5 @@ omtrdc.net^$domain=canadiantire.ca
 ||nav.files.bbci.co.uk/nav-analytics/*$script,domain=bbc.com|bbc.co.uk
 ||edgedatg.com^$script,domain=abc.go.com
 ||hdliveextra-a.akamaihd.net^$domain=nbcsports.com
+||snidigital.com^$domain=hgtv.com
 ||auth.9c9media.ca^$domain=tsn.ca
