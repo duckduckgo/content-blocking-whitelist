@@ -45,3 +45,5 @@ omtrdc.net^$domain=canadiantire.ca
 ||hdliveextra-a.akamaihd.net^$domain=nbcsports.com
 ||snidigital.com^$domain=hgtv.com
 ||auth.9c9media.ca^$domain=tsn.ca
+||fastly.net^$image,domain=cbs.com 
+||fastly.net^$script,domain=cbs.com
