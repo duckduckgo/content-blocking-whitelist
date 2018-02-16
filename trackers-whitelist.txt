@@ -26,6 +26,7 @@ s1.wp.com
 ||s3.amazonaws.com
 ||static.polldaddy.com
 ||i.polldaddy.com
+cdn.sporting.digitaljump.xyz
 ! causes the page to ininitely refresh on canadiantire.ca
 omtrdc.net^$domain=canadiantire.ca
 ! easyprivacy blocks these and breaks the site
@@ -39,9 +40,11 @@ omtrdc.net^$domain=canadiantire.ca
 /\.com\/[0-9]{2,9}\/$/$script,stylesheet,third-party,xmlhttprequest
 /\:\/\/[a-z0-9]{5,40}\.com\/[0-9]{2,9}\/$/$script,stylesheet,third-party,xmlhttprequest
 /\:\/\/[a-z0-9]{5,}\.com\/[A-Za-z0-9]{3,}\/$/$script,stylesheet,third-party,xmlhttprequest
-||edgedatg.com^$script,domain=abc.go.com
 ||nav.files.bbci.co.uk/nav-analytics/*$script,domain=bbc.com|bbc.co.uk
+||edgedatg.com^$script,domain=abc.go.com
 ||hdliveextra-a.akamaihd.net^$domain=nbcsports.com
+||snidigital.com^$domain=hgtv.com
+||auth.9c9media.ca^$domain=tsn.ca
 !
 ! easyprivacy whitelist
 !
