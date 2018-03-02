@@ -52,6 +52,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||fastly.net^$image,domain=cbs.com 
 ||fastly.net^$script,domain=cbs.com
 ||yimg.com^$domain=yahoo.com|yahoo.co.jp|flickr.com|yuilibrary.com|tumblr.com|yahoostudios.com
+||adnxs.com^$domain=bild.de
 
 ! ###################################################
 ! #      End of manually added filter section       #
