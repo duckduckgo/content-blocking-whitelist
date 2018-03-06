@@ -56,6 +56,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||yimg.com^$domain=yahoo.com|yahoo.co.jp|flickr.com|yuilibrary.com|tumblr.com|yahoostudios.com
 ||adnxs.com^$domain=bild.de
 ||chefkoch-cdn.de^$domain=chefkoch.de
+||youtube.com^$script,stylesheet
 
 ! ###################################################
 ! #      End of manually added filter section       #
