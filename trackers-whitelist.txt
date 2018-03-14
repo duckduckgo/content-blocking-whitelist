@@ -57,6 +57,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||adnxs.com^$domain=bild.de
 ||chefkoch-cdn.de^$domain=chefkoch.de
 ||youtube.com^$script,stylesheet
+||ad.doubleclick.net/ddm/ad/$image,domain=spiegel.de
 
 ! ###################################################
 ! #      End of manually added filter section       #
