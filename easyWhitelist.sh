@@ -19,5 +19,7 @@ echo '!-----EasyList Whitelist End-----!' >> trackers-whitelist.txt
 echo '!-----EasyList Adult Whitelist Start-----!' >> trackers-whitelist.txt
 sed -e 's/@@//' adult_whitelist.txt >> trackers-whitelist.txt
 echo '!-----EasyList Adult Whitelist End-----!' >> trackers-whitelist.txt
+# remove media request type from rules until we support them
+sed -i.bak 's/media,//' trackers-whitelist.txt
 # remove extra files
 rm easylist_whitelist.txt adult_whitelist.txt easyprivacy_whitelist.txt easyprivacy_whitelist_international.txt trackers-whitelist.txt.bak

@@ -1343,7 +1343,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||ads.foxnews.com/js/ad.js
 ||ads.foxnews.com/js/adv2.js
 ||ads.foxnews.com/js/omtr_code.js
-||ads.freewheel.tv/|$media,domain=cnbc.com|my.xfinity.com|nbc.com|nbcsports.com
+||ads.freewheel.tv/|$domain=cnbc.com|my.xfinity.com|nbc.com|nbcsports.com
 ||ads.globo.com^*/globovideo/player/
 ||ads.healthline.com/v2/adajax?$subdocument
 ||ads.indeed.com^$~third-party
@@ -2266,7 +2266,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||intentmedia.net/adServer/$script,xmlhttprequest,domain=travelzoo.com
 ||intentmedia.net/javascripts/$script,domain=travelzoo.com
 ||interadcorp.com/script/interad.$script,stylesheet
-||intergi.com^*/videos/$media,other,third-party
+||intergi.com^*/videos/$other,third-party
 ||investopedia.com/inv/ads/$image,domain=investopedia.com
 ||investopedia.com^$generichide
 ||investors.com/Scripts/AdScript.js?
@@ -3032,7 +3032,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||tubemogul.com/bootloader/tubemogulflowplayer.swf$object-subrequest
 ||tubemogul.com/crossdomain.xml$object-subrequest
 ||tudouui.com/bin/player2/*&adsourceid=
-||turner.com/adultswim/big/promos/$media,domain=video.adultswim.com
+||turner.com/adultswim/big/promos/$domain=video.adultswim.com
 ||turner.com^*/ads/freewheel/*/AdManager.js
 ||turner.com^*/ads/freewheel/*/admanager.swf
 ||turner.com^*/ads/freewheel/bundles/*/renderers.xml$object-subrequest
@@ -3092,9 +3092,9 @@ omtrdc.net^$domain=canadiantire.ca
 ||videoads.washingtonpost.com^$object-subrequest,domain=slatev.com
 ||videosxml.mobileads.indiatimes.com^$object-subrequest
 ||videotoolbox.com^$generichide
-||vidible.tv/prod/$media,object,other
+||vidible.tv/prod/$object,other
 ||vidible.tv/prod/tags/$script,domain=smallscreennetwork.com
-||vidible.tv/stage/$media,object,other
+||vidible.tv/stage/$object,other
 ||vidspot.net/blank.html|$subdocument
 ||vidspot.net/builtin-$subdocument
 ||vidspot.net/cgi-bin/upload.cgi?upload_id=*&X-Progress-ID=*&js_on=*&utype=*&upload_type=$subdocument
@@ -5608,7 +5608,7 @@ www.google.com#@##videoads
 ||phncdn.com/tubes-$script
 ||phncdn.com/tubes.infopages-$script
 ||phncdn.com/underscore-$script
-||phncdn.com/videos/$media,object,object-subrequest,other,domain=pornhub.com|redtube.com|tube8.com|youporn.com|youporngay.com
+||phncdn.com/videos/$object,object-subrequest,other,domain=pornhub.com|redtube.com|tube8.com|youporn.com|youporngay.com
 ||phncdn.com/vortex-simple-*.js|$script
 ||phncdn.com/vortex.modern-*.js$script
 ||phncdn.com/www-static/*/autocomplete.$script
@@ -5723,7 +5723,7 @@ www.google.com#@##videoads
 ||phncdn.com/www-static/js/widgets-rating-like-fav.js$script
 ||phncdn.com/www-static/js/widgets-share-image.js$script
 ||phncdn.com/zeroclipboard-$script
-||phncdn.com^$image,media,object-subrequest,other,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
+||phncdn.com^$image,object-subrequest,other,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 ||phncdn.com^*/html5Uploader/$script
 ||phncdn.com^*/streamate/client.js|$script
 ||phncdn.com^*/userfavorites.js$script
@@ -5760,7 +5760,7 @@ www.google.com#@##videoads
 ||pornhub.com/user/$xmlhttprequest
 ||pornhub.com/users/$xmlhttprequest
 ||pornhub.com/video/$xmlhttprequest
-||pornhub.com/videos/$media,object,object-subrequest,other
+||pornhub.com/videos/$object,object-subrequest,other
 ||pornhub.com/videouploading3/$xmlhttprequest
 ||pornhub.com/www-static/flash/gate.swf$object,object-subrequest,other
 ||pornhub.com/www-static/images/$image
@@ -5768,7 +5768,7 @@ www.google.com#@##videoads
 ||pornhubcommunity.com/cdn_files/images/$image
 ||pornhublive.com/blacklabel/bl.client.min.js|$script
 ||pornmd.com/resources/js/search_widget.js$script
-||rdtcdn.com^$image,media,other,domain=redtube.com|redtube.com.br
+||rdtcdn.com^$image,other,domain=redtube.com|redtube.com.br
 ||rdtcdn.com^*/add-collection.js?$script
 ||rdtcdn.com^*/autocomplete.js?$script
 ||rdtcdn.com^*/community.js?$script
@@ -5832,12 +5832,12 @@ www.google.com#@##videoads
 ||redtube.com/videoview/$xmlhttprequest
 ||redtube.com/watched/$xmlhttprequest
 ||redtube.com^*/media/videos/$image
-||redtubefiles.com^$image,media,object-subrequest,other,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
-||rncdn3.com^$media,object-subrequest,other,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
+||redtubefiles.com^$image,object-subrequest,other,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
+||rncdn3.com^$object-subrequest,other,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 ||s.ytimg.com/yts/jsbin/*/www-widgetapi.js$domain=pornhub.com
 ||s7.addthis.com^$script,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 ||services.pornhub.com^$~third-party,xmlhttprequest
-||t8cdn.com^$image,media,domain=tube8.com|tube8.es|tube8.fr
+||t8cdn.com^$image,domain=tube8.com|tube8.es|tube8.fr
 ||t8cdn.com^*/html5Uploader/$script,domain=tube8.com|tube8.es|tube8.fr
 ||thumbs-cdn.redtube.com^$image,domain=redtube.com|redtube.com.br
 ||tube8.com/_Incapsula_Resource?$image,subdocument,xmlhttprequest
@@ -5877,7 +5877,7 @@ www.google.com#@##videoads
 ||youporngay.com/recommendedtoyou.php$xmlhttprequest
 ||youporngay.com/search/autocomplete/$xmlhttprequest
 ||ypncdn.com/cb/assets/js/$script,domain=youporn.com|youporngay.com|youpornru.com
-||ypncdn.com^$image,media,other,domain=youporn.com|youporngay.com|youpornru.com
+||ypncdn.com^$image,other,domain=youporn.com|youporngay.com|youpornru.com
 ! Anti-Adblock
 .jpg#$domain=hellojav.com|hentaienespañol.net|palaotog.net
 .png#$domain=indiangilma.com|javcen.me|javpub.me|lfporn.com|pornbraze.com|thisav.com|you-fap.com|youfreeporntube.com|youngmodelsclub.net
