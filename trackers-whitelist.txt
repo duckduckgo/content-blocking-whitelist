@@ -58,6 +58,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||chefkoch-cdn.de^$domain=chefkoch.de
 ||youtube.com^$script,stylesheet
 ||ad.doubleclick.net/ddm/ad/$image,domain=spiegel.de
+||d1af033869koo7.cloudfront.net/*/247px.js$script
 
 ! ###################################################
 ! #      End of manually added filter section       #
