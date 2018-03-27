@@ -53,7 +53,6 @@ omtrdc.net^$domain=canadiantire.ca
 ||fastly.net^$script,domain=cbs.com
 ||365dm.com^$image
 ||static.tacdn.com
-||yimg.com^$domain=yahoo.com|yahoo.co.jp|flickr.com|yuilibrary.com|tumblr.com|yahoostudios.com
 ||adnxs.com^$domain=bild.de
 ||chefkoch-cdn.de^$domain=chefkoch.de
 ||youtube.com^$script,stylesheet
