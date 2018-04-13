@@ -16,7 +16,7 @@ recs.richrelevance.com
 ||dev.visualwebsiteoptimizer.com^$script,domain=adoramapix.com
 ||nintendo.com/*/analytics.min.js$script,first-party
 ||static.dealer.com/common/tracker/tracker.min.js$script,domain=princetonbmw.com
-! our abp parser is matching data urls on facebook 
+! our abp parser is matching data urls on facebook
 ! that appear to be only css/styling information
 ! Whitelist this until we can fix it
 |data:text$popup
@@ -49,7 +49,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||hdliveextra-a.akamaihd.net^$domain=nbcsports.com
 ||snidigital.com^$domain=hgtv.com
 ||auth.9c9media.ca^$domain=tsn.ca
-||fastly.net^$image,domain=cbs.com 
+||fastly.net^$image,domain=cbs.com
 ||fastly.net^$script,domain=cbs.com
 ||365dm.com^$image
 ||static.tacdn.com
@@ -58,6 +58,9 @@ omtrdc.net^$domain=canadiantire.ca
 ||youtube.com^$script,stylesheet
 ||ad.doubleclick.net/ddm/ad/$image,domain=spiegel.de
 ||d1af033869koo7.cloudfront.net/*/247px.js$script
+||list-manage.com/subscribe
+! blocking this was breaking video players on dozens of network tv sites
+||c.amazon-adsystem.com/aax2/apstag.js
 
 ! ###################################################
 ! #      End of manually added filter section       #
@@ -2775,7 +2778,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||rover.ebay.com^*&size=120x60&$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
 ||rovicorp.com/advertising/*&appver=$xmlhttprequest,domain=charter.net
 ||rs.mail.ru/vp/adman2.swf$object-subrequest,domain=vk.com
-||rsvlts.com/wp-content/uploads/*-advertisment-
+||rsvlts.com/wp-content/uploads/*-advertisement-
 ||rt.liftdna.com/forbes_welcome.js$domain=forbes.com
 ||rt.liftdna.com/fs.js$domain=formspring.me
 ||rt.liftdna.com/liftrtb2_2.js$domain=formspring.me
