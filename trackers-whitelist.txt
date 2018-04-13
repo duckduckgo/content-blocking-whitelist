@@ -103,7 +103,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||adobedtm.com^*/mbox-contents-$script,domain=lenovo.com|newyorker.com|oprah.com|pnc.com|vanityfair.com|wired.com
 ||adobedtm.com^*/s-code-$script
 ||adobedtm.com^*/satellite-$script
-||adobedtm.com^*/satelliteLib-$script,domain=argos.co.uk|collegeboard.org|crackle.com|laredoute.co.uk|laredoute.com|lenovo.com|mastercard.us|nbcnews.com|newyorker.com|oprah.com|pnc.com|realtor.com|redbull.tv|searspartsdirect.com|smooth.com.au|stuff.co.nz|subaru.com|timewarnercable.com|vanityfair.com|wired.com
+||adobedtm.com^*/satelliteLib-$script,domain=argos.co.uk|collegeboard.org|crackle.com|directline.com|laredoute.co.uk|laredoute.com|lenovo.com|mastercard.us|monoprice.com|nbcnews.com|newyorker.com|oprah.com|pnc.com|realtor.com|redbull.tv|searspartsdirect.com|smooth.com.au|stuff.co.nz|subaru.com|timewarnercable.com|vanityfair.com|wired.com
 ||adobetag.com/d2/$script,domain=thestar.com
 ||adobetag.com^*/amc.js$script
 ||adobetag.com^*/sitecatalyst.js$domain=hbf.com.au|seattlepi.com|tv.com
@@ -113,6 +113,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||aflac.com/js/wt_capi.js
 ||airfordable.com^*/angulartics-google-analytics.min.js$domain=airfordable.com
 ||akamai.net^*/omniture.jsp$script,domain=walmart.com
+||akamaihd.net/worldwide_analytics/$script,domain=ubi.com|ubisoft.com
 ||alicdn.com^*/class.js*/base.js*/widget.js$script
 ||alicdn.com^*/click_stat/
 ||aliexpress.com/home/recommendEntry.do?$script
@@ -181,6 +182,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||bestofmedia.com/sfp/js/minified/testedJs/xtClick.min.js?$domain=tomshardware.com
 ||bettycrocker.com/Shared/Javascript/ntpagetag.js
 ||bettycrocker.com/Shared/Javascript/UnicaTag.js
+||bgp.he.net/images/flags/*.gif?$image
 ||bhg.com/web/js-min/common/js/dwr/RemoteTargetingService.js
 ||bitgo.com/vendor/googleanalytics/angular-ga.min.js
 ||bjjhq.com/HttpCombiner.ashx?$script
@@ -601,6 +603,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||pixelpressmedia.com/wp-content/plugins/duracelltomi-google-tag-manager/$script,domain=pixelpressmedia.com
 ||play.google.com/log?format=json&authuser=$xmlhttprequest,domain=myaccount.google.com
 ||playcanvas.com.*/keen.min.js
+||player.ooyala.com^*/analytics-plugin/$script,domain=nintendo.com
 ||player.sundaysky.com^$subdocument
 ||playtheend.com/api/v1/players/heatmap.json?$object-subrequest
 ||pnas.org^*/fingerprint.js$script,~third-party
@@ -733,6 +736,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||turner.com/cnn/*/video/chartbeat.js$domain=cnn.com
 ||turner.com^*/aspenanalytics.xml$domain=cnn.com
 ||twimg.com/googleanalytics/analytics.js$script,domain=twitter.com
+||uefa.com/inc/js/core/projects/statistics/statistics.js?$script
 ||uefa.com^*/chartbeat-trending-carousel.js
 ||ultimedia.com/js/common/jquery.gatracker.js
 ||unifi.me/mootools/classes/*-tracking
@@ -877,6 +881,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||addicted-sports.com/piwik/piwik.js
 ||adobedtm.com^*/satelliteLib-$script,domain=sbb.ch
 ||alternate.de/js/emos2.js
+||analytics.edgekey.net/html5/akamaihtml5-min.js$domain=br.de
 ||analytics.edgesuite.net/html5/akamaihtml5-min.js?$domain=ardmediathek.de
 ||belboon.de/adtracking/$subdocument,domain=gutscheindoktor.de|preis-vergleich.tv|preismafia.com
 ||belboon.de/clickout.php?$subdocument,domain=preis-vergleich.tv
@@ -988,6 +993,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||sosh.fr^*/wtinit.js
 ||stat.prsmedia.fr/tag/stat.js$domain=bienpublic.com
 ||static.lci.fr/assets/scripts/common/tracker.js?$script,~third-party
+||tf1.fr/assets/js/build/lib/smarttag.js$domain=tf1.fr
 ||tf1.fr/assets/js/build/lib/xiti.js$domain=tf1.fr
 ||tv5.org/cms/javascript/*/sitestat.js
 ||tv5monde.com/cms/javascript/*/sitestat.js
@@ -1072,6 +1078,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||argep.hu/googleanalytics.js
 ||clicktale.net/WRc5.js$domain=telefonkonyv.hu
 ||rtl.hu/javascripts/UserTracking.js
+||rtl.hu^*/gemius_id.js?
 ! Italian
 ||adobedtm.com^*/satelliteLib-$script,domain=laredoute.it
 ||adobetag.com/d2/telecomitalia/live/Aggregato119TIM.js$domain=tim.it
@@ -1098,12 +1105,14 @@ omtrdc.net^$domain=canadiantire.ca
 ! Indonesian
 ||detik.com/urchin.js
 ! Japanese
+||analytics.edgekey.net/html5/akamaihtml5-min.js$domain=nhk.or.jp
 ||chancro.jp/assets/lib/googleanalytics-$script
 ! Korean
 ||naver.net/wcslog.js$domain=m.tv.naver.com
 ! Latvian
 /webtracking/*$domain=pasts.lv
 ||eveselibaspunkts.lv/js/global/fingerprint2.min.js?
+||gemius.pl/gplayer.js$domain=skaties.lv
 ||gjensidige.lv/Content/dev/scripts/analytics.js
 ||gjensidige.lv/Content/dev/scripts/analytics.min.js
 ||google-analytics.com/analytics.js$domain=skaties.lv
@@ -1142,6 +1151,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||afisha.ru/proxy/videonetworkproxy.ashx?$xmlhttprequest
 ||boxberry.ru/bitrix/templates/main.adaptive/js/tracking.js
 ||boxberry.ru/tracking.service/
+||crazypanda.ru/m/js/social-$script,domain=crazypanda.ru
 ||criteo.net/js/ld/publishertag.js$domain=novayagazeta.ru
 ||dict.rambler.ru/fcgi-bin/$xmlhttprequest,domain=rambler.ru
 ||google-analytics.com/analytics.js$domain=nabortu.ru|poiskstroek.ru
@@ -1152,6 +1162,8 @@ omtrdc.net^$domain=canadiantire.ca
 ||labrc.pw/advstats/$xmlhttprequest
 ||matchid.adfox.yandex.ru/?url=$script,domain=ctc.ru
 ||megafon.ru/static/?files=*/tealeaf.js
+||mts.ru/app/vendor/angular-google-analytics.min.js
+||online.bcs.ru^*/piwik.bcs.js$script
 ||player.fc-zenit.ru/msi/geoip?$xmlhttprequest
 ||player.vgtrk.com/js/stat.js?
 ||ssp.rambler.ru/acp/capirs_main.$script,domain=afisha.ru
@@ -1165,6 +1177,7 @@ omtrdc.net^$domain=canadiantire.ca
 ! Spanish
 ||acb.com/javascripts/jv_feeder_stats.js
 ||adobedtm.com^*/satelliteLib-$script,domain=crackle.com.ar|crackle.com.ec|crackle.com.mx|crackle.com.pe|crackle.com.py|laredoute.es
+||ara.cat/static/BB3Core/images/pixel.gif?hash=$image,domain=ara.cat
 ||c5n.com^*/angulartics-google-analytics.min.js
 ||cloudfront.net/libs/amplitude-$script,domain=elconfidencial.com
 ||eldiario.es/static/BBTCore/images/pixel.gif?hash=$image,domain=eldiario.es
@@ -1203,7 +1216,8 @@ omtrdc.net^$domain=canadiantire.ca
 .net/director/?t=$subdocument,third-party,domain=eafyfsuh.net
 .net/image-*-$image,domain=affrity.com|catalogfavoritesvip.com|extrarebates.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
 /advertising-glype/*$image,stylesheet,domain=~calcalist.co.il|~gaytube.com|~mako.co.il|~pornhub.com|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~walla.co.il|~xtube.com|~ynet.co.il|~youjizz.com|~youporn.com|~youporngay.com
-/adverts/ad-$script,xmlhttprequest,domain=nme.com
+/adverts/ad-$script,xmlhttprequest,domain=nme.com|trustedreviews.com
+/adverts/ads-$script,xmlhttprequest,domain=nme.com|trustedreviews.com
 /cdn-cgi/pe/bag2?*-adspot-$domain=dailycaller.com
 /cdn-cgi/pe/bag2?*.openx.$domain=dailycaller.com
 /cdn-cgi/pe/bag2?*adblade.com$domain=addictinginfo.com|reverbpress.com|socialmediamorning.com
@@ -1274,7 +1288,6 @@ omtrdc.net^$domain=canadiantire.ca
 ||ad.doubleclick.net/adj/rstone.site/music/photos^$script,domain=rollingstone.com
 ||ad.doubleclick.net/adx/nbcu.nbc/rewind$object-subrequest
 ||ad.doubleclick.net/clk;*?https://dm.victoriassecret.com/product/$image,domain=freeshipping.com
-||ad.doubleclick.net/N7175/adj/fdc.forbes/welcome;id=fdc/welcome;pos=thoughtx;$script,domain=forbes.com
 ||ad.doubleclick.net/pfadx/nbcu.nbc/rewind$object-subrequest
 ||ad.ghfusion.com/constants.js$domain=gamehouse.com
 ||ad.linksynergy.com^$image,domain=extrarebates.com
@@ -1341,7 +1354,6 @@ omtrdc.net^$domain=canadiantire.ca
 ||ads.exoclick.com/*.js$script,domain=gelbooru.com|thepiratebay.org
 ||ads.exoclick.com/close.png$image,domain=streamcloud.eu
 ||ads.expedia.com/event.ng/type=click&$domain=expedia.com
-||ads.forbes.com/realmedia/ads/*@videopreroll$script
 ||ads.fox.com/fox/black_2sec_600.flv
 ||ads.foxnews.com/api/*-slideshow-data.js?
 ||ads.foxnews.com/js/ad.js
@@ -1500,6 +1512,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||alusa.org/store/modules/blockadvertising/$~third-party
 ||amazon-adsystem.com/aax2/amzn_ads.js$domain=deadspin.com|eurogamer.net|food.com|foodnetwork.com|gawker.com|gizmodo.com|io9.com|jalopnik.com|jezebel.com|kotaku.com|lifehacker.com|nintendolife.com|rockpapershotgun.com|usgamer.net|vg247.com|weather.com
 ||amazon-adsystem.com/aax2/apstag.js$domain=blastingnews.com|champion.gg|eurogamer.net|nintendolife.com|nydailynews.com|rockpapershotgun.com|usgamer.net|vg247.com|wcvb.com
+||amazon-adsystem.com/aax2/apstag.js$xmlhttprequest,domain=www.twitch.tv
 ||amazon-adsystem.com/aax2/getads.js$domain=eurogamer.net|nintendolife.com|rockpapershotgun.com|usgamer.net|vg247.com
 ||amazon-adsystem.com/js/$script,domain=voldingenglish.com
 ||amazon-adsystem.com/panda/$script,domain=voldingenglish.com
@@ -1807,6 +1820,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||cubeecraft.com/openx/$~third-party
 ||cvs.com/webcontent/images/weeklyad/adcontent/$~third-party
 ||cwtv.com^$generichide
+||cxmedia.co^*/ads/ads.js$script,domain=goal.com
 ||cyberpower.advizia.com/CyberPower/adv.asp
 ||cyberpower.advizia.com^*/scripts/adv.js
 ||cydiaupdates.net/CydiaUpdates.com_600x80.png
@@ -1844,6 +1858,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||developer.apple.com/app-store/search-ads/images/*-ad
 ||deviantart.net/fs*/20*_by_$image,domain=deviantart.com
 ||deviantart.net/minish/advertising/downloadad_splash_close.png
+||dexerto.com/app/themes/dexerto/assets/js/ads.js$domain=dexerto.com
 ||dianomi.com/partner/marketwatch/js/dianomi-marketwatch.js?$domain=marketwatch.com
 ||dianomi.com/recirculation.epl?id=$subdocument
 ||digiads.com.au/css/24032006/adstyle.css
@@ -1896,8 +1911,9 @@ omtrdc.net^$domain=canadiantire.ca
 ||doubleclick.net/adj/profootballreference.fsv/$script,domain=pro-football-reference.com
 ||doubleclick.net/adj/yorkshire.jp/main-section;*;sz=120x600,160x600$script,domain=yorkshirepost.co.uk
 ||doubleclick.net/ddm/$image,domain=aetv.com|fyi.tv|history.com|mylifetime.com|speedtest.net|tweaktown.com
+||doubleclick.net/ddm/ad/$xmlhttprequest,domain=twitch.tv
 ||doubleclick.net/ddm/clk/*://www.amazon.jobs/jobs/$subdocument,domain=glassdoor.com
-||doubleclick.net/favicon.ico$image,domain=convert-me.com|grammarist.com|nnettle.com|videotoolbox.com
+||doubleclick.net/favicon.ico$image,domain=convert-me.com|goal.com|grammarist.com|videotoolbox.com
 ||doubleclick.net/instream/ad_status.js$domain=eurogamer.net|nintendolife.com|rockpapershotgun.com|usgamer.net|vg247.com
 ||doubleclick.net/N2605/adi/MiLB.com/scoreboard;*;sz=728x90;$subdocument
 ||doubleclick.net/N6545/adj/*_music/video;$script,domain=virginmedia.com
@@ -1909,7 +1925,6 @@ omtrdc.net^$domain=canadiantire.ca
 ||doubleclick.net^*/adi/MiLB.com/multimedia^$subdocument,domain=milb.com
 ||doubleclick.net^*/adi/MiLB.com/standings^$subdocument,domain=milb.com
 ||doubleclick.net^*/adj/wwe.shows/ecw_ecwreplay;*;sz=624x325;$script
-||doubleclick.net^*/fdc.forbes/*;pos=thought;$script,domain=forbes.com
 ||doubleclick.net^*/ftcom.*;sz=1x1;*;pos=refresh;$script,domain=ft.com
 ||doubleclick.net^*/ndm.tcm/video;$script,domain=player.video.news.com.au
 ||doubleclick.net^*/targeted.optimum/*;sz=968x286;$image,popup,script
@@ -2035,7 +2050,6 @@ omtrdc.net^$domain=canadiantire.ca
 ||fmpub.net/site/$domain=theawl.com
 ||fncstatic.com^*/fox411/fox-411-head-728x90.png$domain=foxnews.com
 ||folklands.com/health/advertise_with_us_files/$~third-party
-||forbesimg.com/assets/js/forbes/right_rail_sticky_ad.js$domain=forbes.com
 ||force.com/adv_$~third-party,xmlhttprequest
 ||forex.com/adx/$image
 ||fortune.com/data/chartbeat/$xmlhttprequest
@@ -2053,21 +2067,21 @@ omtrdc.net^$domain=canadiantire.ca
 ||funiaste.net/obrazki/*&adtype=
 ||g.doubleclick.net/aclk?*^adurl=http://thoughtcatalog.com/$popup,domain=thoughtcatalog.com
 ||g.doubleclick.net/crossdomain.xml$object-subrequest,domain=~newgrounds.com
-||g.doubleclick.net/gampad/ads?$object-subrequest,domain=majorleaguegaming.com|nfl.com|player.rogersradio.ca|twitch.tv|viki.com|volarvideo.com|worldstarhiphop.com
+||g.doubleclick.net/gampad/ads?$object-subrequest,domain=majorleaguegaming.com|nfl.com|player.rogersradio.ca|viki.com|volarvideo.com|worldstarhiphop.com
 ||g.doubleclick.net/gampad/ads?$script,domain=app.com|argusleader.com|autoguide.com|battlecreekenquirer.com|baxterbulletin.com|beqala.com|blastingnews.com|boatshop24.com|bodas.com.mx|bodas.net|bucyrustelegraphforum.com|burlingtonfreepress.com|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|champion.gg|chillicothegazette.com|cincinnati.com|clarionledger.com|coloradoan.com|computerworlduk.com|coshoctontribune.com|courier-journal.com|courierpostonline.com|dailyrecord.com|dailyworld.com|daveramsey.com|deadspin.com|defensenews.com|delawareonline.com|democratandchronicle.com|desmoinesregister.com|dnj.com|drupalcommerce.org|economist.com|escapegames.com|fdlreporter.com|flightcentre.co.uk|floridatoday.com|foxnews.com|freep.com|games.latimes.com|gawker.com|gizmodo.com|greatfallstribune.com|greenbaypressgazette.com|greenvilleonline.com|guampdn.com|gz.com|hattiesburgamerican.com|hometownlife.com|htrnews.com|indystar.com|investopedia.com|io9.com|ithacajournal.com|jacksonsun.com|jalopnik.com|jconline.com|jezebel.com|kbb.com|kotaku.com|lancastereaglegazette.com|lansingstatejournal.com|lifehacker.com|liverpoolfc.com|livescience.com|livingstondaily.com|lohud.com|mansfieldnewsjournal.com|mariages.net|marionstar.com|marshfieldnewsherald.com|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|merriam-webster.com|montgomeryadvertiser.com|motorcycle.com|mycentraljersey.com|mydesert.com|mysoju.com|nauticexpo.com|newarkadvocate.com|news-leader.com|news-press.com|newsleader.com|nonags.com|noodle.com|orbitz.com|pal-item.com|phoronix.com|podomatic.com|portclintonnewsherald.com|postcrescent.com|poughkeepsiejournal.com|press-citizen.com|pressconnects.com|qz.com|rgj.com|ripley.cl|ripley.com.pe|sctimes.com|sheboyganpress.com|shreveporttimes.com|stargazette.com|statesmanjournal.com|stevenspointjournal.com|tallahassee.com|tennessean.com|theadvertiser.com|thedailyjournal.com|theleafchronicle.com|thenews-messenger.com|thenewsstar.com|thenorthwestern.com|thesimsresource.com|thespectrum.com|thestarpress.com|thetimesherald.com|thetowntalk.com|thoughtcatalog.com|ticketek.com.ar|urbandictionary.com|virginaustralia.com|visaliatimesdelta.com|volokh.com|vroomvroomvroom.com.au|wausaudailyherald.com|weddingspot.co.uk|wisconsinrapidstribune.com|wlj.net|wsj.com|zanesvilletimesrecorder.com|zavvi.com|zillow.com|zui.com
 ||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=foodkick.com
 ||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=daveramsey.com|s4c.cymru
 ||g.doubleclick.net/gampad/ads?*^iu_parts=7372121%2CPTGBanner%2C$script,domain=pianobuyer.com
-||g.doubleclick.net/gampad/ads?*www.forbes.com%2Ffdc%2Fwelcome_mjx.shtml$script,domain=forbes.com
 ||g.doubleclick.net/gampad/ads?adk$domain=rte.ie
 ||g.doubleclick.net/gampad/adx?$xmlhttprequest,domain=qz.com
 ||g.doubleclick.net/gampad/google_ads.js$domain=nitrome.com|ticketek.com.ar
-||g.doubleclick.net/gpt/pubads_impl_$script,domain=120sports.com|africanindy.com|allmusic.com|beqala.com|blastingnews.com|bodas.com.mx|bodas.net|brandonsun.com|canoe.com|caranddriver.com|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|cbsnews.com|champion.gg|consequenceofsound.net|cwtv.com|daveramsey.com|deadspin.com|denofgeek.co|denofgeek.com|drupalcommerce.org|ebaumsworld.com|economist.com|ew.com|fastcompany.com|flightcentre.co.uk|foodkick.com|forbes.com|foxnews.com|gamespot.com|gawker.com|gizmodo.com|goalzz.com|greyhoundbet.racingpost.com|gsmarena.com|independent.co.uk|indianexpress.com|investopedia.com|io9.com|jalopnik.com|jezebel.com|kbb.com|kotaku.com|latimes.com|lifehacker.com|liverpoolfc.com|livescience.com|m.tmz.com|mariages.net|marvel.com|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|merriam-webster.com|mlb.com|nauticexpo.com|noodle.com|nydailynews.com|nytimes.com|opb.org|orbitz.com|out.com|phonearena.com|phoronix.com|pianobuyer.com|pocketnow.com|qz.com|ripley.cl|ripley.com.pe|seahawks.com|sendtonews.com|thesimsresource.com|thoughtcatalog.com|time.com|tmz.com|upi.com|urbandictionary.com|vanityfair.com|video.foxbusiness.com|vroomvroomvroom.com.au|washingtonexaminer.com|weather.com|weddingspot.co.uk|winnipegfreepress.com|wlj.net|wsj.com|wtop.com|wwe.com|zavvi.com|zdnet.com|zillow.com
+||g.doubleclick.net/gpt/pubads_impl_$script,domain=120sports.com|africanindy.com|al.com|allmusic.com|beqala.com|blastingnews.com|bodas.com.mx|bodas.net|brandonsun.com|canoe.com|caranddriver.com|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|cbsnews.com|champion.gg|cleveland.com|consequenceofsound.net|cwtv.com|daveramsey.com|deadspin.com|denofgeek.co|denofgeek.com|drupalcommerce.org|ebaumsworld.com|economist.com|ew.com|fastcompany.com|flightcentre.co.uk|foodkick.com|foxnews.com|gamespot.com|gawker.com|gizmodo.com|goalzz.com|greyhoundbet.racingpost.com|gsmarena.com|gulflive.com|independent.co.uk|indianexpress.com|investopedia.com|io9.com|jalopnik.com|jezebel.com|kbb.com|kotaku.com|latimes.com|lehighvalleylive.com|lifehacker.com|liverpoolfc.com|livescience.com|m.tmz.com|mardigras.com|mariages.net|marvel.com|masslive.com|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|merriam-webster.com|mlb.com|mlive.com|nauticexpo.com|nj.com|nola.com|noodle.com|nydailynews.com|nytimes.com|opb.org|orbitz.com|oregonlive.com|out.com|pennlive.com|phonearena.com|phoronix.com|pianobuyer.com|pocketnow.com|qz.com|ripley.cl|ripley.com.pe|seahawks.com|sendtonews.com|silive.com|syracuse.com|thesimsresource.com|thoughtcatalog.com|time.com|tmz.com|upi.com|urbandictionary.com|vanityfair.com|video.foxbusiness.com|vroomvroomvroom.com.au|washingtonexaminer.com|weather.com|weddingspot.co.uk|winnipegfreepress.com|wlj.net|wsj.com|wtop.com|wwe.com|zavvi.com|zdnet.com|zillow.com
 ||g.doubleclick.net/pagead/ads?ad_type=image_text^$object-subrequest,domain=ebog.com|gameark.com
 ||g.doubleclick.net/pagead/ads?ad_type=text_dynamicimage_flash^$object-subrequest
 ||g.doubleclick.net/pcs/click^$popup,domain=economist.com
 ||g.doubleclick.net/static/glade.js$domain=eurogamer.net|nintendolife.com|rockpapershotgun.com|usgamer.net|vg247.com
 ||g.doubleclick.net/static/glade/extra_$script,domain=eurogamer.net|nintendolife.com|rockpapershotgun.com|usgamer.net|vg247.com
+||g.doubleclick.net^$xmlhttprequest,domain=twitch.tv
 ||g4tv.com/clientscriptoptimizer.ashx?*-ads.$script,stylesheet
 ||gactv.com^*/javascript/ad/coread/$script
 ||game.zylom.com^*.swf?*&adURL=$object
@@ -2103,6 +2117,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||gmodules.com/ig/ifr?up_ad$domain=healthboards.com
 ||gmx.com/images/outsource/application/mailclient/mailcom/resource/mailclient/flash/multiselection_upload/multiselectionupload-*.swf$object
 ||go2cloud.org/aff_i?$image,domain=affrity.com
+||goal.com^$generichide
 ||godtube.com/resource/mediaplayer/*&adzone=$object-subrequest
 ||goember.com/ad/*.xml?$xmlhttprequest
 ||goodeed.com/donation/pr/*/makegoodeed$document
@@ -2112,9 +2127,9 @@ omtrdc.net^$domain=canadiantire.ca
 ||google.*/webpagethumbnail?*&query=$script,~third-party,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se
 ||google.com/_/apps-static/*/socialads/$script,stylesheet,~third-party
 ||google.com/_static/images/*/ads.png$~third-party
-||google.com/ads/search/module/ads/*/search.js$domain=about.com|armstrongmywire.com|atlanticbb.net|bestbuy.com|bresnan.net|broadstripe.net|buckeyecablesystem.net|cableone.net|centurylink.net|charter.net|cincinnatibell.net|dish.net|ehow.com|forbbbs.org|forbes.com|hargray.net|hawaiiantel.net|hickorytech.net|homeaway.co.uk|knology.net|livestrong.com|mediacomtoday.com|midco.net|mybendbroadband.com|mybrctv.com|mycenturylink.com|myconsolidated.net|myepb.net|mygrande.net|mygvtc.com|myhughesnet.com|myritter.com|northstate.net|nwcable.net|query.nytimes.com|rentals.com|search.rr.com|searchresults.verizon.com|suddenlink.net|surewest.com|synacor.net|tds.net|toshiba.com|trustedreviews.com|truvista.net|windstream.net|windstreambusiness.net|wowway.net|zoover.co.uk|zoover.com
+||google.com/ads/search/module/ads/*/search.js$domain=about.com|armstrongmywire.com|atlanticbb.net|bestbuy.com|bresnan.net|broadstripe.net|buckeyecablesystem.net|cableone.net|centurylink.net|charter.net|cincinnatibell.net|dish.net|ehow.com|forbbbs.org|hargray.net|hawaiiantel.net|hickorytech.net|homeaway.co.uk|knology.net|livestrong.com|mediacomtoday.com|midco.net|mybendbroadband.com|mybrctv.com|mycenturylink.com|myconsolidated.net|myepb.net|mygrande.net|mygvtc.com|myhughesnet.com|myritter.com|northstate.net|nwcable.net|query.nytimes.com|rentals.com|search.rr.com|searchresults.verizon.com|suddenlink.net|surewest.com|synacor.net|tds.net|toshiba.com|trustedreviews.com|truvista.net|windstream.net|windstreambusiness.net|wowway.net|zoover.co.uk|zoover.com
 ||google.com/adsense/$subdocument,domain=sedo.co.uk|sedo.com|sedo.jp|sedo.kr|sedo.pl
-||google.com/adsense/search/ads.js$domain=armstrongmywire.com|atlanticbb.net|bestbuy.com|bresnan.net|broadstripe.net|buckeyecablesystem.net|cableone.net|centurylink.net|charter.net|cincinnatibell.net|dish.net|forbbbs.org|forbes.com|gumtree.com.au|hargray.net|hawaiiantel.net|hickorytech.net|homeaway.co.uk|knology.net|livestrong.com|mediacomtoday.com|midco.net|mybendbroadband.com|mybrctv.com|mycenturylink.com|myconsolidated.net|myepb.net|mygrande.net|mygvtc.com|myhughesnet.com|myritter.com|northstate.net|nwcable.net|query.nytimes.com|rentals.com|search.rr.com|searchresults.verizon.com|suddenlink.net|surewest.com|synacor.net|tds.net|toshiba.com|trustedreviews.com|truvista.net|windstream.net|windstreambusiness.net|wowway.net|www.google.com|zoover.co.uk|zoover.com
+||google.com/adsense/search/ads.js$domain=armstrongmywire.com|atlanticbb.net|bestbuy.com|bresnan.net|broadstripe.net|buckeyecablesystem.net|cableone.net|centurylink.net|charter.net|cincinnatibell.net|dish.net|forbbbs.org|gumtree.com.au|hargray.net|hawaiiantel.net|hickorytech.net|homeaway.co.uk|knology.net|livestrong.com|mediacomtoday.com|midco.net|mybendbroadband.com|mybrctv.com|mycenturylink.com|myconsolidated.net|myepb.net|mygrande.net|mygvtc.com|myhughesnet.com|myritter.com|northstate.net|nwcable.net|query.nytimes.com|rentals.com|search.rr.com|searchresults.verizon.com|suddenlink.net|surewest.com|synacor.net|tds.net|toshiba.com|trustedreviews.com|truvista.net|windstream.net|windstreambusiness.net|wowway.net|www.google.com|zoover.co.uk|zoover.com
 ||google.com/adsense/search/async-ads.js$domain=about.com|ehow.com
 ||google.com/afs/ads?$document,subdocument,domain=ehow.com|livestrong.com
 ||google.com/doubleclick/studio/swiffy/$domain=www.google.com
@@ -2198,7 +2213,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||huntington.com/Script/AdManager.js
 ||hutchgo.advertserve.com^$domain=hutchgo.com|hutchgo.com.cn|hutchgo.com.hk|hutchgo.com.sg|hutchgo.com.tw
 ||i.cdn.turner.com^*/adserviceadapter.swf
-||i.com.com^*/adfunctionsd-*.js$domain=cbsnews.com|cbssports.com|cnettv.cnet.com|metacritic.com|tv.com|twitch.tv
+||i.com.com^*/adfunctionsd-*.js$domain=cbsnews.com|cbssports.com|cnettv.cnet.com|metacritic.com|tv.com
 ||i.espn.co.uk/ads/gamemodule_$object
 ||ib.adnxs.com/jpt?$script,domain=phonearena.com
 ||ibnlive.com/videoads/*_ads_*.xml$object-subrequest
@@ -2210,6 +2225,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||iframe.ivillage.com/iframe_render?
 ||ifyoublockthisvideotoo.club/streamgame.js$script
 ||ign.com/js.ng/size=headermainad&site=teamxbox$script,domain=teamxbox.com
+||ign.com/newsfeed-block?*&adType=$xmlhttprequest
 ||ikea.com^*/img/ad_
 ||ikea.com^*/img/ads/
 ||images-amazon.com/images/*/adsimages/$domain=amazon.com
@@ -2217,7 +2233,6 @@ omtrdc.net^$domain=canadiantire.ca
 ||images-amazon.com^$domain=affrity.com
 ||images-na.ssl-images-amazon.com/images/*/dacx/AdForge/$image,domain=amazon.com
 ||images.dashtickets.co.nz/advertising/featured/$image
-||images.forbes.com/video/ads/blank_frame.flv$object-subrequest
 ||images.frys.com/art/ads/images/$image,~third-party
 ||images.frys.com/art/ads/js/$script,stylesheet
 ||images.mmorpg.com/scripts/advertisement.js
@@ -2298,6 +2313,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||jsstatic.com/_ads/
 ||jtvnw.net/widgets/jtv_player.*&referer=http://talkrtv.com/ad/channel.php?$object,domain=talkrtv.com
 ||justin-klein.com/banners/
+||k01k0.com^$domain=nme.com|trustedreviews.com
 ||kaltura.com^*/doubleClickPlugin.swf$object-subrequest,domain=thechive.com|tmz.com
 ||kamernet.nl^*/Adverts/$~third-party,xmlhttprequest
 ||karolinashumilas.com/img/adv/
@@ -2411,6 +2427,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||media.glnsrv.com/ads/$image,domain=aopschools.com
 ||media.hotelscombined.com^$image,domain=kenweego.com
 ||media.monster.com/ads/$image,domain=monster.com
+||media.net/videoAds.js?cid=$script,domain=forbes.com
 ||media.newjobs.com/ads/$image,object,domain=monster.com
 ||media.salemwebnetwork.com/js/admanager/swfobject.js$domain=christianity.com
 ||media.styleblueprint.com/ad.php?$script,~third-party
@@ -2484,6 +2501,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||myprotein.com/Files/OpenX/$image,~third-party
 ||myrecipes.com/static/advertising/
 ||mythings.com/c.aspx?atok$domain=enter.ru
+||mzstatic.com/image/$image,domain=mp3clan.one
 ||napaonline.com/Content/script/jquery.lazyload-ad-$script
 ||nationalbusinessfurniture.com/product/advertising/$image
 ||nationalgeographic.com/channel/videos/satellite/*.swf?adsite=
@@ -2616,7 +2634,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||pagead2.googlesyndication.com/pagead/imgad?id=$object-subrequest,domain=bn0.com|ebog.com|gameark.com|yepi.com
 ||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=downloads.codefi.re|freeclaimbtc.xyz|globaldjmix.com|gsmdude.com|hulkusc.com|nlfreevpn.com|oldapps.com|pattayaone.net|receive-a-sms.com|slideplayer.com|talksms.com|thefreedictionary.com|unlockpwd.com|uploadex.com|windows7themes.net
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=slideplayer.com|thefreedictionary.com
-||pagead2.googlesyndication.com/pagead/js/lidar.js$domain=convert-me.com|destructoid.com|grammarist.com|nnettle.com|videotoolbox.com
+||pagead2.googlesyndication.com/pagead/js/lidar.js$domain=convert-me.com|destructoid.com|grammarist.com|videotoolbox.com
 ||pagead2.googlesyndication.com/pagead/scache/googlevideoads.swf$object-subrequest,domain=flashgames247.com|freeonlinegames.com|gameitnow.com|play181.com|toongames.com
 ||pagead2.googlesyndication.com/pagead/scache/googlevideoadslibraryas3.swf$object-subrequest,domain=didigames.com|nitrome.com|nx8.com|oyunlar1.com
 ||pagead2.googlesyndication.com/pagead/scache/googlevideoadslibrarylocalconnection.swf?$object-subrequest,domain=didigames.com|nitrome.com|nx8.com|oyunlar1.com
@@ -2630,7 +2648,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||partner.googleadservices.com/gampad/google_ads2.js$domain=motorcycle.com|mysoju.com
 ||partner.googleadservices.com/gampad/google_ads_gpt.js$domain=amctheatres.com|pitchfork.com|podomatic.com|virginaustralia.com
 ||partner.googleadservices.com/gampad/google_service.js$domain=autoguide.com|avclub.com|boatshop24.com|cadenasuper.com|dailygames.com|demotywatory.pl|drivearabia.com|ensonhaber.com|escapegames.com|juegosdiarios.com|lbox.me|letio.com|lightinthebox.com|memegenerator.net|motorcycle.com|mysoju.com|nx8.com|playedonline.com|playstationlifestyle.net|readersdigest.com.au|sulekha.com|ticketek.com.ar|volokh.com
-||partner.googleadservices.com/gpt/pubads_impl_$script,domain=120sports.com|africanindy.com|beqala.com|bodas.com.mx|bodas.net|canoe.com|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|cbsnews.com|cwtv.com|deadspin.com|denofgeek.co|denofgeek.com|drupalcommerce.org|economist.com|ew.com|flightcentre.co.uk|forbes.com|foxnews.com|gawker.com|gizmodo.com|goalzz.com|greyhoundbet.racingpost.com|independent.co.uk|indianexpress.com|investopedia.com|io9.com|jalopnik.com|jezebel.com|kbb.com|kotaku.com|latimes.com|lifehacker.com|liverpoolfc.com|m.tmz.com|mariages.net|marvel.com|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|merriam-webster.com|mlb.com|nauticexpo.com|noodle.com|nydailynews.com|nytimes.com|opb.org|orbitz.com|out.com|phoronix.com|pianobuyer.com|ripley.cl|ripley.com.pe|seahawks.com|sendtonews.com|thesimsresource.com|thoughtcatalog.com|time.com|upi.com|urbandictionary.com|vanityfair.com|video.foxbusiness.com|vroomvroomvroom.com.au|washingtonexaminer.com|weather.com|weddingspot.co.uk|wlj.net|wsj.com|wtop.com|wwe.com|zavvi.com|zdnet.com|zillow.com
+||partner.googleadservices.com/gpt/pubads_impl_$script,domain=120sports.com|africanindy.com|beqala.com|bodas.com.mx|bodas.net|canoe.com|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|cbsnews.com|cwtv.com|deadspin.com|denofgeek.co|denofgeek.com|drupalcommerce.org|economist.com|ew.com|flightcentre.co.uk|foxnews.com|gawker.com|gizmodo.com|goalzz.com|greyhoundbet.racingpost.com|independent.co.uk|indianexpress.com|investopedia.com|io9.com|jalopnik.com|jezebel.com|kbb.com|kotaku.com|latimes.com|lifehacker.com|liverpoolfc.com|m.tmz.com|mariages.net|marvel.com|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|merriam-webster.com|mlb.com|nauticexpo.com|noodle.com|nydailynews.com|nytimes.com|opb.org|orbitz.com|out.com|phoronix.com|pianobuyer.com|ripley.cl|ripley.com.pe|seahawks.com|sendtonews.com|thesimsresource.com|thoughtcatalog.com|time.com|upi.com|urbandictionary.com|vanityfair.com|video.foxbusiness.com|vroomvroomvroom.com.au|washingtonexaminer.com|weather.com|weddingspot.co.uk|wlj.net|wsj.com|wtop.com|wwe.com|zavvi.com|zdnet.com|zillow.com
 ||partners.thefilter.com/crossdomain.xml$object-subrequest
 ||partners.thefilter.com/dailymotionservice/$image,object-subrequest,script,domain=dailymotion.com
 ||patient-education.com/banners/$~third-party
@@ -2640,6 +2658,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||pbs.twimg.com/ad_img/$image,domain=twitter.com
 ||pch.com/iframe-ad/?adType=$subdocument
 ||pch.com^*/videoad.$stylesheet
+||pcwdld.com/wp-content/uploads/*/AdGuard.$domain=pcwdld.com
 ||pcworld.com/www/js/ads/jquery.lazyload-ad.js
 ||pennlive.com/static/common/js/ads/ads.js
 ||pepperjamnetwork.com/banners/$image,domain=extrarebates.com
@@ -2778,8 +2797,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||rover.ebay.com^*&size=120x60&$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
 ||rovicorp.com/advertising/*&appver=$xmlhttprequest,domain=charter.net
 ||rs.mail.ru/vp/adman2.swf$object-subrequest,domain=vk.com
-||rsvlts.com/wp-content/uploads/*-advertisement-
-||rt.liftdna.com/forbes_welcome.js$domain=forbes.com
+||rsvlts.com/wp-content/uploads/*-advertisment-
 ||rt.liftdna.com/fs.js$domain=formspring.me
 ||rt.liftdna.com/liftrtb2_2.js$domain=formspring.me
 ||rthk.hk/assets/flash/rthk/*/ad_banner$object
@@ -3007,8 +3025,6 @@ omtrdc.net^$domain=canadiantire.ca
 ||topgear.com^*/ads.min.js
 ||topusajobs.com/banners/
 ||torontosun.com/assets/js/dfp.js?
-||torrentz2.eu/report_$~third-party,xmlhttprequest
-||torrentz2.eu/suggestions/$~third-party,xmlhttprequest
 ||trade-a-plane.com/AdBox/js/jquery.TAP_AdBox.js
 ||tradecarview.com/material/housead/$image
 ||tradedoubler.com/file/$image,domain=deliverydeals.co.uk|sunsteps.org
@@ -3046,7 +3062,6 @@ omtrdc.net^$domain=canadiantire.ca
 ||tv-kino.net/wp-content/themes/*/advertisement.js
 ||tvnz.co.nz/*/advertisement.js
 ||twinspires.com/php/$subdocument,~third-party
-||twitch.tv^$generichide
 ||twitvid.com/mediaplayer_*.swf?
 ||twofactorauth.org/img/$image,~third-party
 ||twogag.com/comics/$image,~third-party
@@ -3137,6 +3152,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||wearetennis.com/pages/home/img/ad-$image
 ||web-jp.ad-v.jp/adam/inline?$object-subrequest,domain=daisuki.net
 ||web-jp.ad-v.jp/crossdomain.xml$domain=daisuki.net
+||webspectator.com^*/_adsense_/$script,domain=goal.com
 ||wellsfargo.com/img/ads/$~third-party
 ||wetransfer.com/advertise/$xmlhttprequest
 ||whitepages.com^*/google_adsense.js?
@@ -3168,7 +3184,6 @@ omtrdc.net^$domain=canadiantire.ca
 ||www.google.*/aclk?*&adurl=$subdocument,~third-party,domain=google.ca|google.co.in|google.co.nz|google.co.uk|google.com|google.com.au|google.com.eg|google.de|google.es
 ||www.google.*/search?$subdocument,~third-party,domain=google.ca|google.co.in|google.co.nz|google.co.uk|google.com|google.com.au|google.com.eg|google.de|google.es
 ||www.google.com/ads/preferences/$image,script,subdocument
-||www.twitch.tv^$generichide
 ||www8-hp.com^*/styles/ads/$domain=hp.com
 ||wz856.com^$domain=nme.com|trustedreviews.com
 ||xbox.com/assets/ad/$image,~third-party
@@ -3627,7 +3642,6 @@ omtrdc.net^$domain=canadiantire.ca
 ||bdrip.ws/web_data/*/ad$image
 ||bdrip.ws^$generichide
 ||beemp3s.org/adreactor/$script
-||beinsports.com^$generichide
 ||belfasttelegraph.co.uk^$generichide
 ||beliebershotel.com^$script,domain=beliebershotel.com
 ||best-bitcoin-faucet.eu^$generichide
@@ -3703,7 +3717,6 @@ omtrdc.net^$domain=canadiantire.ca
 ||cio.co.nz^$generichide
 ||cio.com.au^$generichide
 ||city1016.ae^$generichide
-||clashdaily.com^$generichide
 ||cleodesktop.com^$generichide
 ||clicksor.net/images/$domain=kissanime.com
 ||clickxchange.com^$image,domain=kissanime.com
@@ -3888,7 +3901,6 @@ omtrdc.net^$domain=canadiantire.ca
 ||fm.tuba.pl/tuba3/_js/advert.js
 ||folue.info/needes.js$domain=twer.info
 ||folue.info/player/*.js|$domain=youwatch.org
-||forbesimg.com/scripts/ad*.js$domain=forbes.com
 ||forshrd.com^$script,domain=4shared.com
 ||fragflix.com^*.png?*=$image,domain=majorleaguegaming.com
 ||free-bitcoin-faucet.eu^$generichide
@@ -4057,7 +4069,6 @@ omtrdc.net^$domain=canadiantire.ca
 ||infineoncorp.com^$domain=eventhubs.com
 ||info.tm^$script,domain=ilix.in|priva.us
 ||informer.com^$generichide
-||infowars.com^$generichide
 ||innovid.com/1x1.gif?$object-subrequest,domain=channel4.com
 ||innovid.com/iroll/config/*.xml?cb=[$object-subrequest,domain=channel4.com
 ||innovid.com^*/VPAIDIRollPackage.swf$object-subrequest,domain=channel4.com
@@ -4093,7 +4104,6 @@ omtrdc.net^$domain=canadiantire.ca
 ||jpopasia.com^$script,~third-party
 ||jpost.com/JavaScript/ads.js?
 ||jsc.mgid.com^$script,domain=pcgames-download.net
-||jtvnw.net/*/advertisement.js$domain=twitch.tv
 ||juba-get.com^*/advertisement.js
 ||juegosparaplaystation.com^$generichide
 ||jukezilla.com^$generichide
@@ -4589,11 +4599,8 @@ omtrdc.net^$domain=canadiantire.ca
 ||theads.me/www/delivery/$script,domain=vidup.me
 ||thebarchive.com^$generichide
 ||thecountrycaller.com/showads.php
-||thefreethoughtproject.com^$generichide
 ||thegeekyglobe.com^$generichide
 ||theinquirer.net^$generichide
-||thelordofstreaming.it/wp-content/uploads/*/ad_$image
-||thelordofstreaming.it^$generichide
 ||thenextweb.com/wp-content/advertisement.js
 ||thesilverforum.com/public/js/jsLoader.js?adType=$script
 ||thesimsresource.com/downloads/download/itemId/$generichide
@@ -4638,7 +4645,6 @@ omtrdc.net^$domain=canadiantire.ca
 ||tvpelis.net^*/advertisement2.js
 ||tvrex.altervista.org^$generichide
 ||tweaktown.com^$generichide
-||twitch.tv/ads/ads.js
 ||ucoz.com/ads/banner.jpg?$image
 ||ukclimbing.com^$generichide
 ||uktv.co.uk/static/js/ads.js
@@ -4646,7 +4652,6 @@ omtrdc.net^$domain=canadiantire.ca
 ||ultimate-catch.eu^$generichide
 ||ulto.ga^$generichide
 ||universityherald.com/common/js/common/ads.js
-||universityherald.com^$generichide
 ||unlockpwd.com^$generichide
 ||up-4ever.com^$generichide
 ||up-flow.org/advertisement.js
@@ -5482,6 +5487,8 @@ www.google.com#@##videoads
 ||gstatic.com/recaptcha/$script
 ||img.pornhub.com/gif/*.gif|$image,~third-party
 ||img.youtube.com/vi/*/sddefault.jpg$domain=pornhub.com
+||maps.googleapis.com^$domain=pornhub.com
+||maps.gstatic.com^$domain=pornhub.com
 ||nsimg.net^$image,domain=pornhub.com
 ||phncdn.com/*/js/likeDislike/$script
 ||phncdn.com/*/js/t8.util-min.js?$script
