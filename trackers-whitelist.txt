@@ -62,6 +62,11 @@ omtrdc.net^$domain=canadiantire.ca
 ! blocking this was breaking video players on dozens of network tv sites
 ||c.amazon-adsystem.com/aax2/apstag.js
 ||tt.omtrdc.net^$script,domain=delltechnologiesworld.com
+||2o7.net^$image,domain=tennislink.usta.com
+! temporarily whitelist gpt on theatlantic to avoid paywall.
+! will revisit when solvable by script injection.
+||googletagservices.com/tag/js/gpt.js^$domain=theatlantic.com
+||moatads.com/freewheel*/MoatFreeWheelJSPEM.js^$domain=tntdrama.com
 
 ! ###################################################
 ! #      End of manually added filter section       #
