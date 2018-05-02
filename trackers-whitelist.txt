@@ -61,6 +61,8 @@ omtrdc.net^$domain=canadiantire.ca
 ||list-manage.com/subscribe
 ! blocking this was breaking video players on dozens of network tv sites
 ||c.amazon-adsystem.com/aax2/apstag.js
+! unblock embedded yandex maps
+||api-maps.yandex.ru^$script,image
 ! allow images hosted on yandex cdn to load
 ||img-fotki.yandex.ru^$image
 ! unblock popular embedded appointment form
