@@ -63,6 +63,17 @@ omtrdc.net^$domain=canadiantire.ca
 ||c.amazon-adsystem.com/aax2/apstag.js
 ! allow images hosted on yandex cdn to load
 ||img-fotki.yandex.ru^$image
+! unblock popular embedded appointment form
+||smbleads.internetbrands.com/v1/$script,stylesheet
+! fix sites built on wishabi/flipp
+||images.wishabi.net^$image
+||f.wishabi.net^$xmlhttprequest,image
+||tt.omtrdc.net^$script,domain=delltechnologiesworld.com
+||2o7.net^$image,domain=tennislink.usta.com
+! temporarily whitelist gpt on theatlantic to avoid paywall.
+! will revisit when solvable by script injection.
+||googletagservices.com/tag/js/gpt.js^$domain=theatlantic.com
+||moatads.com/freewheel*/MoatFreeWheelJSPEM.js^$domain=tntdrama.com
 
 ! ###################################################
 ! #      End of manually added filter section       #
