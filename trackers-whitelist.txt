@@ -64,6 +64,12 @@ omtrdc.net^$domain=canadiantire.ca
 ! fix sites built on wishabi/flipp
 ||images.wishabi.net^$image
 ||f.wishabi.net^$xmlhttprequest,image
+||tt.omtrdc.net^$script,domain=delltechnologiesworld.com
+||2o7.net^$image,domain=tennislink.usta.com
+! temporarily whitelist gpt on theatlantic to avoid paywall.
+! will revisit when solvable by script injection.
+||googletagservices.com/tag/js/gpt.js^$domain=theatlantic.com
+||moatads.com/freewheel*/MoatFreeWheelJSPEM.js^$domain=tntdrama.com
 
 ! ###################################################
 ! #      End of manually added filter section       #
