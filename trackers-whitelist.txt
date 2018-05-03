@@ -63,6 +63,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||c.amazon-adsystem.com/aax2/apstag.js
 ! many sites use maps and stylesheets hosted on developers.google.com
 ||developers.google.com/maps^$stylesheet,script
+||ib.adnxs.com/ut^$domain=aftonbladet.se
 ! unblock embedded yandex maps
 ||api-maps.yandex.ru^$script,image
 ! allow images hosted on yandex cdn to load
