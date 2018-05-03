@@ -77,6 +77,7 @@ omtrdc.net^$domain=canadiantire.ca
 ! will revisit when solvable by script injection.
 ||googletagservices.com/tag/js/gpt.js^$domain=theatlantic.com
 ||moatads.com/freewheel*/MoatFreeWheelJSPEM.js^$domain=tntdrama.com
+||googletagmanager.com/gtm.js$script,domain=account.bethesda.net
 
 ! ###################################################
 ! #      End of manually added filter section       #
