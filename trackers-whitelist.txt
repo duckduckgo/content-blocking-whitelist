@@ -79,6 +79,8 @@ omtrdc.net^$domain=canadiantire.ca
 ! will revisit when solvable by script injection.
 ||googletagservices.com/tag/js/gpt.js^$domain=theatlantic.com
 ||moatads.com/freewheel*/MoatFreeWheelJSPEM.js^$domain=tntdrama.com
+! fix search and image loading in safari
+||script.ioam.de/iam.js$domain=ebay-kleinanzeigen.de
 
 ! ###################################################
 ! #      End of manually added filter section       #
