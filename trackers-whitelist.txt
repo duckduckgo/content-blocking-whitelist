@@ -79,6 +79,10 @@ omtrdc.net^$domain=canadiantire.ca
 ! will revisit when solvable by script injection.
 ||googletagservices.com/tag/js/gpt.js^$domain=theatlantic.com
 ||moatads.com/freewheel*/MoatFreeWheelJSPEM.js^$domain=tntdrama.com
+! unblock channeladvisor image cdn
+||richmedia.channeladvisor.com/ImageDelivery/imageService^$image
+! fix broken styles on bjs.com
+||hlserve.com/Delivery/ClientPaths/Library/hook.js^$domain=bjs.com
 ! unbreak embedded marketo contact forms
 ||marketo.com/index.php/form/getForm^$script
 ||marketo.com/js/forms2^$script,stylesheet
