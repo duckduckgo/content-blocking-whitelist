@@ -3,5 +3,20 @@ redmart.com
 wrh.noaa.gov
 wwwnew.testout.com
 idnes.cz
+! bank websites reported broken
 calbanktrust.com
-securentry.calbanktrust.com
+fidelity.com
+vanguard.com
+mebank.com.au
+wellsfargo.com
+zionsbank.com
+bankofscotland.co.uk
+amegybank.com
+suntrust.com
+tdbank.com
+inlandbank.com
+bank.barclays.co.uk
+capitalone.com
+onlinebanking.nationwide.co.uk
+nbarizona.com
+sberbank.ru
