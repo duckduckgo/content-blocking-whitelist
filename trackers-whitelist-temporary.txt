@@ -3,7 +3,6 @@ redmart.com
 wrh.noaa.gov
 wwwnew.testout.com
 idnes.cz
-! bank websites reported broken
 calbanktrust.com
 fidelity.com
 vanguard.com
