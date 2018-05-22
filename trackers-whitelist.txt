@@ -83,6 +83,7 @@ omtrdc.net^$domain=canadiantire.ca
 ||googletagmanager.com/gtm.js$script,domain=account.bethesda.net
 ! unblock channeladvisor image cdn
 ||richmedia.channeladvisor.com/ImageDelivery/imageService^$image
+||richmedia.channeladvisor.com/ViewerDelivery^$script
 ! fix broken styles on bjs.com
 ||hlserve.com/Delivery/ClientPaths/Library/hook.js^$domain=bjs.com
 ! unbreak embedded marketo contact forms
