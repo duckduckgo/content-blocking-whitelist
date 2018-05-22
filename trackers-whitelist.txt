@@ -92,6 +92,8 @@ omtrdc.net^$domain=canadiantire.ca
 ||marketo.com/index.php/leadCapture/save2^$xmlhttprequest
 ! fix search and image loading in safari
 ||script.ioam.de/iam.js$domain=ebay-kleinanzeigen.de
+! unbreak audio stream in safari
+||googletagservices.com/tag/js/gpt.js$script,domain=ijpr.org
 
 ! ###################################################
 ! #      End of manually added filter section       #
