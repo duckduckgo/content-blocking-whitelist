@@ -2,14 +2,14 @@
 ! #       Manually added filter section        #
 ! ##############################################
 
-wp.com/_static/
-etsystatic.com
-2mdn.net/instream/html5/ima3.js
-assets.adobedtm.com
-i.ebayimg.com
-store.storeimages.cdn-apple.com
-media.richrelevance.com
-recs.richrelevance.com
+||wp.com/_static/
+||etsystatic.com
+||2mdn.net/instream/html5/ima3.js
+||assets.adobedtm.com
+||i.ebayimg.com
+||store.storeimages.cdn-apple.com
+||media.richrelevance.com
+||recs.richrelevance.com
 ||yandex.st/jquery
 ||js.center.io^$domain=randpac.com
 ||authedmine.com^$domain=mylink.nu|mylink.st
@@ -20,19 +20,19 @@ recs.richrelevance.com
 ! that appear to be only css/styling information
 ! Whitelist this until we can fix it
 |data:text$popup
-img.digitalriver.com
-user-images.githubusercontent.com
-a.slack-edge.com
-global.fncstatic.com
-s1.wp.com
+||img.digitalriver.com
+||user-images.githubusercontent.com
+||a.slack-edge.com
+||global.fncstatic.com
+||s1.wp.com
 ||contextual.media.net/bidexchange.js^$domain=nytimes.com
 ||google-analytics.com/analytics.js$domain=raspberrypi.org
 ||s3.amazonaws.com
 ||static.polldaddy.com
 ||i.polldaddy.com
-cdn.sporting.digitaljump.xyz
+||cdn.sporting.digitaljump.xyz
 ! causes the page to infinitely refresh on canadiantire.ca
-omtrdc.net^$domain=canadiantire.ca
+||omtrdc.net^$domain=canadiantire.ca
 ! easyprivacy blocks these and breaks the site
 ||ssl.gstatic.com$domain=analytics.google.com
 ||csi.gstatic.com$domain=analytics.google.com
