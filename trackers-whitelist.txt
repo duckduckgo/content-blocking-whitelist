@@ -83,7 +83,7 @@
 ||2o7.net^$image,domain=tennislink.usta.com|kiplinger.com|dunesvillage.com
 ||moatads.com/freewheel*/MoatFreeWheelJSPEM.js^$domain=tntdrama.com|nba.com
 ! blocking googletagmanager breaks login form on bethesda.net
-||googletagmanager.com/gtm.js$domain=account.bethesda.net|southbankresearch.com|redballoon.com.au
+||googletagmanager.com/gtm.js$domain=account.bethesda.net|southbankresearch.com|redballoon.com.au|wrh.noaa.gov
 ! unblock channeladvisor image cdn and image slideshows
 ||richmedia.channeladvisor.com/ImageDelivery/imageService^$image
 ||richmedia.channeladvisor.com/ViewerDelivery^$script,stylesheet
