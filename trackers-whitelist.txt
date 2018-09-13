@@ -120,9 +120,10 @@
 ||omtrdc.net/b/ss^$image,domain=mercuryinsurance.com
 ! unblock ecommerce assets on rockstarwarehouse.com and others
 ||digitalriver.com/DRHM/Storefront^$script,stylesheet,image
-! unblock images served on salesforce support sites such as support.ubi.com
-||force.com/servlet/servlet.ImageServer^$image
-||salesforce.com/servlet/servlet.ImageServer^$image
+! unblock embedded salesforce assets
+||force.com^$script,stylesheet,image,xmlhttprequest,subdocument
+||salesforce.com^$script,stylesheet,image,xmlhttprequest,subdocument
+||salesforceliveagent.com^$script,xmlhttprequest,subdocument
 ||ad.crwdcntrl.net/*/callback=jsonp_callback$script,domain=weather.com
 
 ! ###################################################
