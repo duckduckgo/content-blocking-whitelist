@@ -125,6 +125,8 @@
 ||salesforce.com^$script,stylesheet,image,xmlhttprequest,subdocument
 ||salesforceliveagent.com^$script,xmlhttprequest,subdocument
 ||ad.crwdcntrl.net/*/callback=jsonp_callback$script,domain=weather.com
+! unblock images embedded in mailchimp emails
+||gallery.mailchimp.com^$image
 
 ! ###################################################
 ! #      End of manually added filter section       #
