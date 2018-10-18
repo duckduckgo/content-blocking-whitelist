@@ -17,3 +17,5 @@ nbarizona.com
 sberbank.ru
 td.com
 ameritrade.com
+mail.google.com
+gmail.com
