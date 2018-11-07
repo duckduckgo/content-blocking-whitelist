@@ -21,4 +21,3 @@ mail.google.com
 gmail.com
 accounts.google.com
 googlemail.com
-webmail.earthlink.net
