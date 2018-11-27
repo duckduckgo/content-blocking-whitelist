@@ -96,8 +96,8 @@
 ||marketo.com/index.php/leadCapture/save2^$xmlhttprequest
 ! fix search and image loading in safari
 ||script.ioam.de/iam.js$domain=ebay-kleinanzeigen.de
-! unbreak audio stream in safari, unbreak search on buienradar
-||googletagservices.com/tag/js/gpt.js$domain=ijpr.org|buienradar.nl|theatlantic.com
+! unbreak search on buienradar, temporarily unblock gpt.js on gizmodo sites to fix broken comment sections
+||googletagservices.com/tag/js/gpt.js$domain=ijpr.org|buienradar.nl|theatlantic.com|avclub.com|deadspin.com|earther.com|gizmodo.com|jalopnik.com|jezebel.com|kotaku.com|lifehacker.com|splinternews.com|theroot.com|thetakeout.com
 ! unbreak styles and comments on championat.com and lenta.ru
 ||palacesquare.rambler.ru^$image,stylesheet,domain=championat.com|lenta.ru
 ||comments.rambler.ru^$script,domain=championat.com|lenta.ru
@@ -127,6 +127,7 @@
 ||ad.crwdcntrl.net/*/callback=jsonp_callback$script,domain=weather.com
 ! unblock images embedded in mailchimp emails
 ||gallery.mailchimp.com^$image
+
 
 ! ###################################################
 ! #      End of manually added filter section       #
