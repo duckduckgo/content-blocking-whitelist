@@ -19,7 +19,3 @@ td.com
 ameritrade.com
 santander.com
 santander.co.uk
-mail.google.com
-gmail.com
-accounts.google.com
-googlemail.com
