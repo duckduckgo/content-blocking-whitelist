@@ -127,6 +127,8 @@
 ||ad.crwdcntrl.net/*/callback=jsonp_callback$script,domain=weather.com
 ! unblock images embedded in mailchimp emails
 ||gallery.mailchimp.com^$image
+! unbreak videos on foxnews
+||acdn.adnxs.com/prebid/*/prebid.js$domain=foxnews.com|foxbusiness.com
 
 
 ! ###################################################
