@@ -19,5 +19,3 @@ td.com
 ameritrade.com
 santander.com
 santander.co.uk
-discord.com
-jhu.edu
