@@ -129,6 +129,8 @@
 ||gallery.mailchimp.com^$image
 ! unbreak videos on foxnews
 ||acdn.adnxs.com/prebid/*/prebid.js$domain=foxnews.com|foxbusiness.com
+! unblock site search toolbars powered by Elastic's Swiftype
+||*.api.swiftype.com
 
 
 ! ###################################################
