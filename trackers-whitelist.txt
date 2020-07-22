@@ -132,6 +132,7 @@
 ! unblock site search toolbars powered by Elastic's Swiftype
 ||api.swiftype.com
 ||*.api.swiftype.com
+||search-api.swiftype.com
 
 
 ! ###################################################
