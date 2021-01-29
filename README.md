@@ -1,8 +1,17 @@
 # Content Blocking Whitelist
 
+These files are served: https://duckduckgo.com/contentblocking/...
+
 **Adding whitelist entries**
 
 To add a manual whitelist entry update the top section of trackers-whitelist.txt.
+
+**Adding new broken canvas websites**
+
+If breakage is detected of a website due to Canvas fingerprint protection there are two mechanisms to remove the protection:
+
+- broken-canvas-scripts.txt - Line separated regular expressions to match against scripts loaded into a web page.
+- broken-canvas-sites.txt - First party pages that are exempt of protection.
 
 **Updating the whitelist**
 
