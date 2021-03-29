@@ -2095,6 +2095,7 @@
 ||facebook.com/ads/profile/interests/$~third-party,xmlhttprequest
 ||facebook.com/ajax/feed/filter_action/dialog_direct_action_ads?$xmlhttprequest,domain=facebook.com
 ||facebook.com/rsrc.php/$domain=facebook.com
+||facebook.com/plugins/comments.php
 ||faceinhole.com/adsense.swf$object-subrequest
 ||faculty.uml.edu^*/ad$image,~third-party
 ||farecompare.com^*/farecomp/
@@ -5314,6 +5315,7 @@
 ! Facebook
 ||www.facebook.com/ads/$generichide
 ||www.facebook.com/ajax/ads/$xmlhttprequest,domain=www.facebook.com
+||www.facebook.com/plugins/comments.php
 ! Google
 ||accounts.google.com/adwords/$domain=accounts.google.com
 ||accounts.google.com^$document,subdocument,domain=adwords.google.com
